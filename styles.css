@@ -1,0 +1,38 @@
+h1, h2, h3, h4, h5, h6, p, li, div{
+    color: red;
+    font-family: Tahoma, sans-serif;
+}
+
+body{
+    background-color: #312e2e;
+}
+
+button{
+    background-color: #222222;
+    color: red;
+    font-weight: bold;
+    border: 0;
+}
+
+button:hover{
+    border: black 2px solid;
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*Links*/
+
+a:link, a:visited{
+    color: red;
+}
+
+a:hover{
+    color: orange;
+}
+
+a:active{
+    color: orange;
+}

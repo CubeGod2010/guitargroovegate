@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="105mm"
+   height="130mm"
+   viewBox="0 0 105 130"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="3G Logo.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.71891835"
+     inkscape:cx="397.12437"
+     inkscape:cy="232.98891"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-52.5,-83.5)">
+    <g
+       id="g2">
+      <g
+         id="g3"
+         transform="translate(-26.181167,40.459494)">
+        <path
+           style="mix-blend-mode:difference;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:0.264583"
+           d="m 88,45 -8,10 20,15 -20,30 20,30 -20,15 8,10 32,-25 -20,-30 20,-30 z"
+           id="path1" />
+        <path
+           style="mix-blend-mode:difference;fill:#800000;stroke:#800000;stroke-width:0.264583"
+           d="m 142.41495,81.079142 -40,50.390428 40,39.60957 40,-40 -0.65943,-10 h -44.87121 l 0.26023,10 h 25.27041 l -20,20 -20,-20.39043 20.45479,-29.60957 z"
+           id="path2" />
+      </g>
+    </g>
+  </g>
+</svg>
